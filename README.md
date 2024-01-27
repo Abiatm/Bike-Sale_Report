@@ -14,7 +14,7 @@ In this analysis we seek to identify factors and reasons behind why people purch
 
 
 ### Problem Statement
-#### What we seek to address are:
+#### What we seek to identify are:
 - Identification of the contributions of income by gender towards bike purchase .
 - Effect of distance towards bike purchase.
 - Age and house ownership contribution towards bike purchase
@@ -47,7 +47,7 @@ The analysis results are summarized as follows:
 1.	From the analysis it shows that the higher the income  from both gender the possibility of bikes purchase
 2.	The smaller the distance the possibility of bike purchase.
 3.	Middle age adult with age bracket of “40-64” has highest purchase of bike.
-4            Home owners has high chances off bike purchase.
+4.  Home owners has high chances of bike purchase.
 
 ### Recommendations
 Based on the obtained results from the analysis, the following recommendations are made:
